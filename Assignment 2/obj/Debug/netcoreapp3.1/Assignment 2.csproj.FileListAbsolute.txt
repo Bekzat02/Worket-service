@@ -1,0 +1,53 @@
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.exe
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csprojAssemblyReference.cache
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfo.cs
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.CopyComplete
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.deps.json
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.json
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.dev.json
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.genruntimeconfig.cache
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samja\source\repos\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.CoreCompileInputs.cache
